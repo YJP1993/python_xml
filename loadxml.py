@@ -5,3 +5,5 @@ root = tree.getroot()
 
 
 print root[0][1].text
+
+print "Hello!"
