@@ -1,0 +1,6 @@
+0.git clone <リポジトリのアドレス>
+1.いろいろと編集
+2.git add <新しいファイル>
+3.git commit -a
+4.git pull
+5.git push
